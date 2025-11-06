@@ -56,7 +56,7 @@
 <h2 align="center">🚀 Futuristic Aesthetic</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/assets/animated/dev-working.gif" width="400" alt="Animated Coder">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400">
 </p>
 
 <p align="center">
