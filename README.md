@@ -1,72 +1,74 @@
-<!-- README.md for Vignesh Vicky — futuristic animated profile -->
+<!-- Futuristic Animated README by Vignesh Vicky -->
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&weight=700&size=42&duration=2500&pause=600&color=00E5FF&center=true&vCenter=true&width=950&height=150&lines=%20%20⚡+VIGNESH+VICKY+//+CREATIVE+TECH+EXPLORER;%20%20💎+UI%2FUX+VISIONARY+%26+AI+ENTHUSIAST;%20%20🚀+DESIGNING+THE+FUTURE+ONE+PIXEL+AT+A+TIME" alt="Futuristic Typing Animation" />
+
+</h1>
+
+---
+
+<h2 align="center">💫 About Me</h2>
 
 <p align="center">
-  <img src="assets/header.svg" alt="Futuristic header for Vignesh Vicky" width="100%"/>
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=vignesh-d-2005&theme=radical&data=followers,repositories,stars,commits" alt="Profile Widget" />
 </p>
 
-<h1 align="center">Hi — I'm <span style="color:#9b6bff">Vignesh Vicky</span> 👋</h1>
+<div align="center">
+
+> 🧠 I'm <b>Vignesh Vicky</b> — a 4th year <b>Computer Science and Engineering</b> student at  
+> <b>IFET College of Engineering, Villupuram</b>.<br><br>
+> 🎨 Passionate about <b>UI/UX Design</b> & <b>Graphic Design</b>.<br>
+> 🤖 Eager to explore the world of <b>Artificial Intelligence</b> and its cutting-edge tools.<br>
+> 🌌 Always learning, always creating, always evolving.
+
+</div>
+
+
+---
+
+<h2 align="center">⚙️ Tech Universe</h2>
+
 <p align="center">
-  <strong>4th year CSE student</strong> at IFET College of Engineering, Villupuram • Passionate about <em>UI/UX</em>, <em>graphic design</em>, and <em>AI</em>.
+  <img src="https://skillicons.dev/icons?i=html,css,figma,python,photoshop,git,github&perline=6" alt="Skills" />
 </p>
 
 ---
 
-## 🚀 Quick Snapshot
-- 🔭 Currently exploring: **UI/UX design**, **graphical design**, and hands-on AI tools.  
-- 🌱 Learning: Advanced design systems, Figma micro-interactions, motion design, and ML-assisted design workflows.  
-- 💬 Ask me about: front-end UI prototypes, design to code workflows, or AI tooling for designers.  
-- 📫 Reach me: add contact details or link (email/LinkedIn) in your repo later.
+<h2 align="center">🌐 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://github.com/vignesh-d-2005"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/vignesh-d-74aab7329"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:vigneshvicky6605@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🧭 Skills & Tools
-- **Design:** Figma, Adobe XD, Illustrator, Photoshop  
-- **Frontend / Prototyping:** HTML/CSS, React basics, Tailwind (learning)  
-- **AI / ML Tools:** Prompt engineering, exploring tools that assist designers (Play.ht, Runway, Midjourney-style workflows)  
-- **Other:** Git, VS Code, basic data structures & algorithms (4th-year CSE)
+<h2 align="center">✨ Dynamic Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vignesh-d-2005&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+
+</p>
 
 ---
 
-## ✨ Projects / Playground
-> _Keep this section updated with links to your projects._  
-- **Portfolio Mockups** — interactive prototypes and design system docs.  
-- **AI Design Experiments** — small demos using prompts + CSS/SVG auto-generation.  
-- **Course Projects** — compiler or systems projects from coursework (link to repos).
+<h2 align="center">🚀 Futuristic Aesthetic</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/assets/animated/dev-working.gif" width="400" alt="Animated Coder">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=39FF14&center=true&vCenter=true&width=600&lines=Design.+Code.+Create.+Innovate.;Learning+Never+Stops.;The+Future+is+AI-Driven." alt="Animated Quote" />
+</p>
 
 ---
 
-## 🎯 Readme Features (what's going on)
-- Animated header is a **pure SVG** (`assets/header.svg`) — fast, lightweight, and renders in GitHub.
-- The design uses gradients, particle motion, and subtle SMIL/CSS animations to create a futuristic look.
-- You can customize colors, fonts, and text directly in `assets/header.svg`.
+<h3 align="center">⚡ “Dream it. Design it. Develop it.” ⚡</h3>
 
 ---
 
-## 🛠 How to customize the header
-1. Open `assets/header.svg` in any text editor.  
-2. Edit the big text (`Vignesh Vicky`) or subtitle lines directly.  
-3. Adjust colors in the `<linearGradient>` blocks (`#g1`, `#g2`) to match your brand.  
-4. Save and push to GitHub — the README will render the animated SVG automatically.
-
----
-
-## 📦 Copy-ready badges (example)
-[![Top Langs](https://img.shields.io/github/languages/top/your-username/your-repo)](https://github.com/your-username)
-[![Repo Size](https://img.shields.io/github/repo-size/your-username/your-repo)](https://github.com/your-username)
-
----
-
-## 👣 Next steps (suggested)
-- Add links to your portfolio or Dribbble/Behance.  
-- Replace the placeholder project list with real repo links.  
-- Add a "Design Tokens" section linking to a design-system file.  
-- Add a GIF or short MP4 demo inside `/assets` and link it from README for richer motion demos.
-
----
-
-## ✉️ Contact
-If you want, tell me where to link your email / LinkedIn / Instagram and I’ll update the contact snippet in the README.
-
----
-
-> _If you want, I can also produce a dark-mode variant, export a PNG fallback for places that don't support inline SVG animation, or generate a version that embeds your avatar and a short animated timeline of your studies/projects — tell me which and I'll include it directly in the repo code._
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00FFF6,100:FF00FF&section=footer&text=Thank+You+for+Visiting!&fontColor=FFFFFF&fontAlignY=80&fontAlign=50" />
+</p>
